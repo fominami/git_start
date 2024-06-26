@@ -5,9 +5,8 @@ summer summer summer
 
 new lines new songs
 lala alala 
-
-noooooo
-and there
-
+<<<<<<< HEAD
 do re mi
 fa sol la
+=======
+>>>>>>> 6da79fcd8139579024d45b78c87a8649c1f3ceac
